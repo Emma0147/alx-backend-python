@@ -2,8 +2,6 @@
 """Type-annotated function floor"""
 
 
-import math
-
 def floor(n: float) -> int:
     """Takes two float n and returns floor of float"""
     return int(n)
